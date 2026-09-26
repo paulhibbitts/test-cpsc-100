@@ -69,7 +69,7 @@ In peer evaluation, group members rate each other's contribution. It runs in iPe
 
 Your contract is a written agreement within your group. It sets out roles, expectations, how you communicate, and how you resolve conflict. Name specific behaviours, timelines, and consequences. "We will communicate well" is not a contract.
 
-> [!ATTENTION]
+> [!CAUTION]
 > You cannot proceed with the group project until your TA has approved your contract.
 
 The contract is due Fri Sep 25 at 11:59pm. Your TA either approves it or sends it back for revision. Re-submissions are due Thu Oct 1 at 11:59pm. Your group gets one free revision, so treat the first submission as the real one. Guidance for writing the contract is on [Group Work Resources](group-work-resources.md).
@@ -126,7 +126,7 @@ Project parts and retrospectives go to Canvas, UBC's online course platform. Wee
 
 The tools are the ones you already use in lab. One is Snap! at [snap.berkeley.edu](https://snap.berkeley.edu), which runs in your browser. The other is Jupyter, for Python later in the term.
 
-> [!ATTENTION]
+> [!CAUTION]
 > Late work isn't accepted on the project. Nothing submitted after a deadline is marked.
 >
 > The group contract is an exception. A late contract is still required, and it costs marks on Part B. See [Group contract](#group-contract).

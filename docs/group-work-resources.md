@@ -31,7 +31,7 @@ You complete the contract once, early in the term, and then use it all term. Wor
 - Electronic signatures are accepted. Every member signs.
 - The template has a changelog, which is a dated list of changes. Start at Version 1.0 with the date. Add an entry whenever you revise the contract.
 
-> [!ATTENTION]
+> [!CAUTION]
 > You cannot move ahead with the group project until your TA (teaching assistant) has approved your contract. Your group gets one free revision. A late contract costs marks on Project 1 Part B, and so does each re-submission after the free one. See [Project](project.md#group-contract) for the penalties.
 
 The template walks through these sections:

@@ -99,7 +99,7 @@ Arrive about 10 minutes early. A proctor (the staff member supervising the room)
 
 Quizzes are open book, but only in one direction. Inside ORCA, the course slides are on screen for you, up to and including the material that quiz covers. You may not bring your own material in: no notes, no printouts, no laptops, no phones.
 
-> [!ATTENTION]
+> [!CAUTION]
 > ORCA has strict policies on check-in, belongings, and conduct. Breaking them counts as academic or non-academic misconduct. Read [ORCA's policies and procedures](https://orca.ubc.ca/students/policies/) before your first quiz.
 
 <details>
@@ -126,7 +126,7 @@ If you think there's a scoring error, see the [Remarking Policy](syllabus.md#rem
 
 Your lowest of the nine is dropped, so missing one costs you nothing and needs no email. But that drop is all the flexibility you get. Once it's used, every further missed quiz scores 0.
 
-> [!ATTENTION]
+> [!CAUTION]
 > There are no re-takes and no make-ups for quizzes.
 
 If something serious or ongoing is happening, use the [academic concession](syllabus.md#academic-concessions) process instead of spending your drop on it. An academic concession is UBC's formal way of giving you flexibility when something serious affects your studies.

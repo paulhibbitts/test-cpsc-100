@@ -59,7 +59,7 @@ they come to 15%, and Project 2 is the other 15%. See
 > Part C is worth more than Parts A and B combined, so give it real time. Don't save it for the
 > last week!
 
-> [!ATTENTION]
+> [!CAUTION]
 > To pass this course you need at least 50% on the course project overall, counting Project 1 and
 > Project 2 together. The full list is in [Passing Criteria](syllabus.md#passing-criteria).
 
@@ -143,7 +143,7 @@ Partway through the lab, the class votes on which factors should count for more.
 the weights, and you run the calculator again with exactly the same answers. Nothing about you has
 changed in that half hour, but your score probably has. Part A asks you to explain why.
 
-> [!ATTENTION]
+> [!CAUTION]
 > Share your score, not your answers.
 >
 > When you compare with a partner, compare the score and which factors moved it most. Saying "my
@@ -849,7 +849,7 @@ What's already decided:
 - Group contract penalties come off the Part B group grade. See
   [Group contract](project.md#group-contract)
 
-> [!ATTENTION]
+> [!CAUTION]
 > Late work is not accepted on the project. Nothing submitted after a deadline is marked.
 >
 > The group contract is an exception. A late contract is still required, and it costs marks on
