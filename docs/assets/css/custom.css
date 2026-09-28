@@ -230,3 +230,10 @@ body .markdown-section {
         background: #8ED1A6;
     }
 }
+
+/* Give the navbar room for its three rows of links on phones */
+@media (max-width: 480px) {
+    :root {
+        --navbar-height: 6em;
+    }
+}
